@@ -22,5 +22,5 @@ Lastly, within each Id, I searched for id's that contained the same element, suc
 <ul>
 <li>Theresa Eatherly</li>
 <li>@git-theresa</li>
-<li> [t.eatherly@gmail.com](t.eatherly@gmail.com)</li>
+<li>[t.eatherly@gmail.com](t.eatherly@gmail.com)</li>
 </ul>
