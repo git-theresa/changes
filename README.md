@@ -2,6 +2,7 @@
 <h1>Code-Refactoring</h1>
 
 
+
 <p>
 This project is a code-refactoring project. The following are changes that were made from a .html page that was already coded. The .html page was copied and pasted into my own VSCode repository. Additional changes were made to the .css page, which was also previously coded and copied and pasted. 
 
@@ -17,5 +18,9 @@ Moving on to refactoring the style sheet for the .html, I rearranged the .css sh
 
 Lastly, within each Id, I searched for id's that contained the same element, such as background color and font-family. These were then cut out of the original Id and combined into one element for all future id's until the next background color and/or font-family had been established to a new Id. 
 </p>
-<h3>Theresa Eatherly</h3>
-[t.eatherly@gmail.com](t.eatherly@gmail.com)
+<h3>Contributors</h3>
+<ul>
+<li>Theresa Eatherly</li>
+<li>@git-theresa</li>
+<li> [t.eatherly@gmail.com](t.eatherly@gmail.com)</li>
+</ul>
