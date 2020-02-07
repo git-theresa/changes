@@ -20,4 +20,4 @@ Lastly, within each Id, I searched for id's that contained the same element, suc
 ### Contributors
 * Theresa Eatherly
 * @git-theresa
-* [t.eatherly@gmail.com] (t.eatherly@gmail.com)>
+* [t.eatherly@gmail.com](t.eatherly@gmail.com)
