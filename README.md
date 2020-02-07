@@ -1,9 +1,7 @@
 # change
-##Code-Refactoring
+## Code-Refactoring
 
 
-
-<p>
 This project is a code-refactoring project. The following are changes that were made from a .html page that was already coded. The .html page was copied and pasted into my own VSCode repository. Additional changes were made to the .css page, which was also previously coded and copied and pasted. 
 
 The first change was to make the original .html page scalable, sizeable, and compatible on any web browser. The first step to this process was to create a new .css page with Eric Myer's Reset/CSS code.
@@ -17,9 +15,9 @@ Another part of checking the .html page is to make sure that each tag has an ope
 Moving on to refactoring the style sheet for the .html, I rearranged the .css sheet to what made sense at what I was looking at. Starting with the body of the page, then listing what is in the header, then each section that came after the header. My position order listed from the top of the webpage to the bottom, then side bars, then the footer being last. In addition to each refactor of the .css, I ordered each element according to the 9 Elements of CSS, which I of course found by the power of Google-Fuing.
 
 Lastly, within each Id, I searched for id's that contained the same element, such as background color and font-family. These were then cut out of the original Id and combined into one element for all future id's until the next background color and/or font-family had been established to a new Id. 
-</p>
-###Contributors
+
+
+### Contributors
 * Theresa Eatherly
 * @git-theresa
-* <link [t.eatherly@gmail.com](t.eatherly@gmail.com)>
-
+* [t.eatherly@gmail.com] (t.eatherly@gmail.com)>
