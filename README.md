@@ -1,5 +1,5 @@
 # change
-<h1>Code-Refactoring</h1>
+##Code-Refactoring
 
 
 
@@ -18,9 +18,8 @@ Moving on to refactoring the style sheet for the .html, I rearranged the .css sh
 
 Lastly, within each Id, I searched for id's that contained the same element, such as background color and font-family. These were then cut out of the original Id and combined into one element for all future id's until the next background color and/or font-family had been established to a new Id. 
 </p>
-<h3>Contributors</h3>
-<ul>
-<li>Theresa Eatherly</li>
-<li>@git-theresa</li>
-<li>[t.eatherly@gmail.com](t.eatherly@gmail.com)</li>
-</ul>
+###Contributors
+* Theresa Eatherly
+* @git-theresa
+* <link [t.eatherly@gmail.com](t.eatherly@gmail.com)>
+
