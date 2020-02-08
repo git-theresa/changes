@@ -1,6 +1,6 @@
 # change
 ## Code-Refactoring
-
+## Technology Stack: HTML, CSS
 
 This project is a code-refactoring project. The following are changes that were made from a .html page that was already coded. The .html page was copied and pasted into my own VSCode repository. Additional changes were made to the .css page, which was also previously coded and copied and pasted. 
 
